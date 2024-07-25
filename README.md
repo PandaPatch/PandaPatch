@@ -7,6 +7,5 @@
 </img>
 
 
-<img align="left">
-![vishwajeet-londhe's Stats](https://github-readme-stats.vercel.app/api?username=vishwajeet-londhe&theme=default&show_icons=true&hide_border=false&count_private=true)
-</img>
+
+![vishwajeet-londhe's Stats](https://github-readme-stats.vercel.app/api?username=vishwajeet-londhe&theme=default&show_icons=true&hide_border=false&align="left"&count_private=true)
