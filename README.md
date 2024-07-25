@@ -2,7 +2,7 @@
 
 
 **PandaPatch/PandaPatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img align="right">
+<img align="left">
 [![GitHub Streak](https://streak-stats.demolab.com?user=vishwajeet-londhe&card_width=400)](https://git.io/streak-stats) 
 </img>
 
