@@ -8,4 +8,4 @@
 
 
 
-![vishwajeet-londhe's Stats](https://github-readme-stats.vercel.app/api?username=vishwajeet-londhe&theme=default&show_icons=true&hide_border=false&align="left"&count_private=true)
+![vishwajeet-londhe's Stats](https://github-readme-stats.vercel.app/api?username=vishwajeet-londhe&theme=default&show_icons=true&hide_border=false&align="right"&count_private=true)
